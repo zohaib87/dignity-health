@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Dignity Health
- * Description: Core functionality plugin for Dignity Health Ltd.
+ * Description: Single page product showcase with ajax search.
  * Version:     0.0.1
  * Author:      Muhammad Zohaib
  * Author URI:  https://www.xecreators.pk
@@ -10,7 +10,7 @@
  * Text Domain: dignity-health
  */
 
-if (!defined('ABSPATH')) exit; // Exit if accessed directly
+if ( ! defined('ABSPATH') ) exit; // Exit if accessed directly
 
 require 'helpers/functions.php';
 
