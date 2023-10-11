@@ -5,7 +5,7 @@ Requires PHP: 7.4
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Just a starter WordPress plugin.
+Single page product showcase with ajax search.
 
 == Changelog ==
 ----- v0.0.1 ------------
