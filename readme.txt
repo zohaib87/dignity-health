@@ -9,4 +9,4 @@ Single page product showcase with ajax search.
 
 == Changelog ==
 ----- v0.0.1 ------------
-2019/12/29: Beta Release
+2023/10/11: Beta Release
