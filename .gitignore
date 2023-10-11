@@ -1,0 +1,9 @@
+# Ignore directories
+node_modules
+.vscode
+site
+vendor
+
+# Ignore files
+ftpsync.settings
+sftp-config.json

@@ -1,0 +1,75 @@
+/*--------------------------------------------------------------
+# Meta Boxes
+--------------------------------------------------------------*/
+.dignity-health-field:not(:last-of-type) {
+  margin: 0 0 12px;
+}
+.dignity-health-label,
+.dignity-health-input {
+	display: inline-block;
+}
+.dignity-health-label {
+  width: 30%;
+  margin-bottom: 5px;
+}
+.dignity-health-label, .dignity-health-input {
+  vertical-align: top;
+  float: left;
+  box-sizing: border-box;
+}
+.dignity-health-field:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+.dignity-health-field-sm {
+	width: 65px;
+}
+.dignity-health-field-md {
+	width: 120px;
+}
+.dignity-health-field-full {
+	width: 100%;
+}
+.dignity-health-field .select2-container--default .select2-selection--single,
+.dignity-health-field .select2-container--default .select2-selection--multiple,
+.dignity-health-field input[type=color],
+.dignity-health-field input[type=date],
+.dignity-health-field input[type=datetime-local],
+.dignity-health-field input[type=datetime],
+.dignity-health-field input[type=email],
+.dignity-health-field input[type=month],
+.dignity-health-field input[type=number],
+.dignity-health-field input[type=password],
+.dignity-health-field input[type=search],
+.dignity-health-field input[type=tel],
+.dignity-health-field input[type=text],
+.dignity-health-field input[type=time],
+.dignity-health-field input[type=url],
+.dignity-health-field input[type=week],
+.dignity-health-field input[type=checkbox],
+.wp-core-ui .dignity-health-field select,
+.dignity-health-field textarea {
+	border-radius: 0px;
+  border: 1px solid #ccc;
+  margin: 0;
+}
+.dignity-health-field .select2-container--default .select2-selection--multiple .select2-selection__choice {
+  margin-bottom: 0;
+}
+.toplevel_page_dignity-health-options .select2-container--default .select2-selection--single,
+.dignity-health-field .select2-container--default .select2-selection--single,
+.wp-core-ui .dignity-health-field select {
+	min-height: 30px;
+}
+/*--------------------------------------------------------------
+# Freemius
+--------------------------------------------------------------*/
+#fs_connect {
+  width: auto !important;
+  text-align: center !important;
+  margin: 20px 20px 0 2px !important;
+}
+#fs_account .postbox {
+  max-width: 100%;
+}

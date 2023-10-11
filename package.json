@@ -1,0 +1,20 @@
+{
+  "name": "xe-plugin",
+  "version": "1.1.11",
+  "description": "Just a starter WordPress plugin.",
+  "scripts": {
+    "init": "cd node_scripts && node init.js",
+    "build": "cd node_scripts && node build.js",
+    "copy": "cd node_scripts && node copy.js",
+    "pot": "cd node_scripts && node pot.js",
+    "serve": "cd node_scripts && node browser_sync.js"
+  },
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "copy-dir": "^1.3.0",
+    "replace-in-file": "^5.0.2",
+    "rimraf": "^3.0.2",
+    "wp-pot": "^1.9.9"
+  }
+}
