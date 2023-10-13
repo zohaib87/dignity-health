@@ -25,4 +25,4 @@ Your [pull requests](https://github.com/zohaib87/dignity-health/pulls) will be h
 6. Open command line, navigate to the local repository and run `npm install` to install dependencies.
 7. Create a new branch to work on. Keep in mind that code should meet the [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/).
 8. Once changes/feature/fix is completed, push your branch to your fork on Github, the remote `origin`.
-9. From your fork open a pull request in the correct branch. Target the project's `main` branch.
+9. From your fork open a pull request in the correct branch. Target this project's `main` branch.
