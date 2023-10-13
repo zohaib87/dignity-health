@@ -18,6 +18,11 @@ Single page product showcase with ajax search.
 Your [pull requests](https://github.com/zohaib87/dignity-health/pulls) will be highly welcomed. If you're looking for something to start with, you can check the [issues](https://github.com/zohaib87/dignity-health/issues) or open one about something you want to contribute and we can discuss it before your pull request.
 
 1. You must have latest version of [WordPress](https://wordpress.org/) and [Nodejs](https://nodejs.org/en/).
-2. Download or clone the repository.
-3. Open command line, navigate to the local repository and run `npm install` to install dependencies.
-4. Keep in mind that code should meet the [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/).
+2. Create a fork of the repository.
+3. Clone the fork on your local machine. Your remote repo on Github is called `origin`.
+4. Add the original repository as a remote called `upstream`.
+5. If you created your fork a while ago be sure to pull upstream changes into your local repository.
+6. Open command line, navigate to the local repository and run `npm install` to install dependencies.
+7. Create a new branch to work on. Keep in mind that code should meet the [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/).
+8. Push your branch to your fork on Github, the remote `origin`.
+9. From your fork open a pull request in the correct branch. Target the project's `main` branch.
