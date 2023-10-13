@@ -7,7 +7,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/zohaib87/dignity-health.svg)
 [![License](https://img.shields.io/github/license/zohaib87/dignity-health)](https://github.com/zohaib87/dignity-health/blob/master/LICENSE.md)
 
-Single page product showcase with ajax search.
+Single page product showcase with ajax search using Product Name or Composition.
 
 [![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/zohaib87/dignity-health/releases/latest/download/dignity-health.zip)
 
